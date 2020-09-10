@@ -25,7 +25,7 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
 ![RequestPushAccess](images/RequestPushAccess.png)
 
 - Bob approves Alice's push request from his Roost Desktop.
-![BobApproves](images/BobApproves.png)
+![BobApproves](images/BobApproves.PNG)
 
 - Alice build docker image of her frontend application.
 ![voterBuildImage](images/voterBuildImage.png)
@@ -43,7 +43,7 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
 
 - Bob deploys the backend microservice on his Roost Desktop and can see in Workload Analytics ensuring both the microservices are running.
 ![BobDeployBallot](images/BallotApplyToZKE.png)
-![BobWorkloadAnalytics](images/WorkloadAnalytics.png)
+![BobWorkloadAnalytics](images/WorkloadAnalytics.PNG)
 
 - Bob demo the running microservices by opening the Frontend microservice URL from his development machine.
 - Alice and Bob push their code in GitHub or Gitlab, create a video recording of their service building and service collaboration showing a demo. And they prepare a presentation to include application overview, architecture and include other information.
