@@ -25,7 +25,7 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
 ![RequestPushAccess](images/RequestPushAccess.png)
 
 - Bob approves Alice's push request from his Roost Desktop.
-![BobApproves](images/BobApproves.PNG)
+![BobApproves](images/BobApproves.png)
 
 - Alice build docker image of her frontend application.
 ![voterBuildImage](images/voterBuildImage.png)
@@ -37,7 +37,7 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
 ![aliceCollaborationEvent](images/aliceCollaborationEvent.png)
 
 - Bob also gets COLLABORATION ZKE Events once deployment is received on his machine and can see the deployed frontend service in his workload analytics.
-![BobCollaborateEvent](images/BobCollaborateEvent.PNG)
+![BobCollaborateEvent](images/BobCollaborateEvent.png)
 
 - Bob creates docker image of his developed backend microservice, creates his kubernetes manifests file to deploy in ZKE cluster.
 
