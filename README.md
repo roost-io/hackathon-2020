@@ -42,7 +42,7 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
 - Bob creates docker image of his developed backend microservice, creates his kubernetes manifests file to deploy in ZKE cluster.
 
 - Bob deploys the backend microservice on his Roost Desktop and can see in Workload Analytics ensuring both the microservices are running.
-![BobDeployBallot](images/BallotApplyToZKE.png)
+![BobDeployBallot](images/BallotApplyToZKE.PNG)
 ![BobWorkloadAnalytics](images/WorkloadAnalytics.PNG)
 
 - Bob demo the running microservices by opening the Frontend microservice URL from his development machine.
