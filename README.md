@@ -79,4 +79,4 @@ Alice brings web development experience and Bob is expert at writing API.
 - Sign in to https://roost.hackerearth.com and click on SUBMIT PROJECT.  Share 1 or more: PDF / PPT / Recording AND share the repository URL (GitHub/GitLab)
 ![SubmitProject](images/SubmitProject.png)
 
-## If you have any questions, Cloud Native Experts are available to #support you via [Slack](https://bit.ly/joinROOST)##
+## If you have any questions, Cloud Native Experts are available to #support you via [Slack](https://bit.ly/joinRoost)
