@@ -18,7 +18,7 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
 ![RoostRegistration](images/RoostRegistration.png)
 
 ## Step 2: Download and install Roost Desktop
-- Download and install [Roost Desktop](http://roost.io/download) in their respective development machine.
+- Download and install [Roost Desktop](http://roost.io/download) in their respective development machines.
 
 - Follow the OS specific pre-requisites and launch Roost Desktop
 
@@ -37,15 +37,14 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
 ## Step 4: Develop and unit-test microservice using Roost Desktop
 - Alice uses her Roost Desktop to develop frontend microservices. This implies a Docker image and Kubernetes Manifest.
 
-- Alice builds docker image for her frontend application. (voter/Dockerfile)
+- Alice builds docker image for her frontend application. [voter/Dockerfile](voter/Dockerfile)
 ![voterBuildImage](images/voterBuildImage.png)
 
-- Alice creates a Kubernetes Manifest (voter/voter.yaml) to deploys her frontend microservice in ZKE Cluster and complete her unit test.
+- Alice creates a Kubernetes Manifest [voter/voter.yaml](voter/voter.yaml) to deploys her frontend microservice in ZKE Cluster and complete her unit test.
 
-- Bob uses his Roost Desktop to develop backend microservices. This implies a Docker image and Kubernetes Manifest.
+- Bob also uses his Roost Desktop to develop backend microservices. This implies a Docker image and Kubernetes Manifest.
 
-- Bob builds docker image for the backend application. (ballot/Dockerfile)
-![voterBuildImage](images/voterBuildImage.png)
+- Bob builds docker image for the backend application. [ballot/Dockerfile](ballot/Dockerfile)
 
 - Bob creates a Kubernetes Manifest (ballot/ballot.yaml) to deploy backend microservice in ZKE Cluster and completes his test.
 ![BobDeployBallot](images/BallotApplyToZKE.PNG)
@@ -53,23 +52,28 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
 ## Step 5: Time to collaborate and integrate
 - Alice decides to share her front-end microservice with Bob.
 
-- Alice right-clicks on deploy.yaml and selects "Share" and sends it to Bob. Alice can see collaboration ZKE events in her Roost Desktop.
+- Alice right-clicks on voter.yaml and selects "Share" and sends it to Bob.
 ![AliceShareDeployment](images/AliceShareDeployment.png)
+
+-Alice can see collaboration ZKE events in her Roost Desktop.
 ![aliceCollaborationEvent](images/aliceCollaborationEvent.png)
 
-- Bob also gets COLLABORATION ZKE Events once deployment is received on his machine and can see the deployed frontend service in his workload analytics.
+- Bob also gets COLLABORATION ZKE Events once deployment shared by Alice is received on his machine.
+
+- Bob can see the deployed frontend service in his workload analytics.
 ![BobCollaborateEvent](images/BobCollaborateEvent.png)
 
-- Bob already has his backend microservice running in Roost Desktop.
+- Bob already has his backend microservice running in Roost Desktop, so it is now 2 microservices running.
 ![BobWorkloadAnalytics](images/WorkloadAnalytics.PNG)
 
 - Bob verifies the integration by opening the Frontend microservice URL from his development machine.
+![Demo](images/AppDemoUI.png)
 
 ## Final step for Hackathon submission
 
-- Alice and Bob push their code in GitHub or Gitlab
+- Alice and Bob push their code to a public GitHub or Gitlab repository.
 
-- The document their microservices, inter-dependency and collaboration end-result. (filename)
+- They document their microservices, inter-dependency and collaboration end-result. [Submission Presentation.pdf](Submission Presentation.pdf)
 
 - Optionally create a video recording of their service building and service collaboration. (https://www.youtube.com/watch?v=flRl9b7W_Gc)
 
