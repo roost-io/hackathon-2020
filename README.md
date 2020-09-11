@@ -67,13 +67,13 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
 ![BobWorkloadAnalytics](images/WorkloadAnalytics.PNG)
 
 - Bob verifies the integration by opening the Frontend microservice URL from his development machine.
-![Demo](images/AppDemoUI.png)
+![Demo](images/demo.png)
 
 ## Final step for Hackathon submission
 
 - Alice and Bob push their code to a public GitHub or Gitlab repository.
 
-- They document their microservices, inter-dependency and collaboration end-result. [Submission Presentation.pdf](Submission Presentation.pdf)
+- They document their microservices, inter-dependency and collaboration end-result. [Presentation.pdf](Presentation.pdf)
 
 - Optionally create a video recording of their service building and service collaboration. (https://www.youtube.com/watch?v=flRl9b7W_Gc)
 
