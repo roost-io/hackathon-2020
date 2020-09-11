@@ -9,7 +9,7 @@ Alice brings web development experience and Bob is expert at writing API.
  - Develop and test microservice using Roost Desktop
  - Share Kubernetes Manifest using Roost Collaborate and enjoy an integrated application
  
- _*Finally, SUBMIT the project to [HackerEarth: Roost Hackathon](https://roost.hackerearth.com) for your chance to WIN.*_
+ _Finally, SUBMIT the project to [HackerEarth: Roost Hackathon](https://roost.hackerearth.com) for your chance to WIN._
 
 ## Step 1: Sign Up at Roost Hackathon and Roost.io
 - Register for Roost Hackathon. [Registration Link](https://roost.hackerearth.com/)
