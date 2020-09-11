@@ -8,13 +8,13 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
  - Develop and test microservice using Roost Desktop
  - Share Kubernetes Manifest using Roost Collaborate and enjoy an integrated application
  
- _Finally, submit the project for Roost Hackathon and Stand a chance to win._
+ _*Finally, SUBMIT the project to [HackerEarth: Roost Hackathon](https://roost.hackerearth.com) for your chance to WIN.*_
 
 ## Step 1: Sign Up at Roost Hackathon and Roost.io
 - Register for Roost Hackathon. [Registration Link](https://roost.hackerearth.com/)
 ![HackathonRegistration](images/HackathonRegistration.png)
 
-- Both Sign-in to [roost.io](http://roost.io) and choose 'alice' & 'bob' as their respective roost handle.
+- Both Sign-in to [roost.io](https://roost.io) and choose 'alice' & 'bob' as their respective roost handle.
 ![RoostRegistration](images/RoostRegistration.png)
 
 ## Step 2: Download and install Roost Desktop
