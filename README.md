@@ -40,7 +40,7 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
 - Alice builds docker image for her frontend application. [voter/Dockerfile](voter/Dockerfile)
 ![voterBuildImage](images/voterBuildImage.png)
 
-- Alice creates a Kubernetes Manifest [voter/voter.yaml](voter/voter.yaml) to deploys her frontend microservice in ZKE Cluster and complete her unit test.
+- Alice creates a Kubernetes Manifest [voter/voter.yaml](voter/voter.yaml) to deploy her frontend microservice in ZKE Cluster and complete her unit test.
 
 - Bob also uses his Roost Desktop to develop backend microservices. This implies a Docker image and Kubernetes Manifest.
 
@@ -55,7 +55,7 @@ Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise 
 - Alice right-clicks on voter.yaml and selects "Share" and sends it to Bob.
 ![AliceShareDeployment](images/AliceShareDeployment.png)
 
--Alice can see collaboration ZKE events in her Roost Desktop.
+- Alice can see collaboration ZKE events in her Roost Desktop.
 ![aliceCollaborationEvent](images/aliceCollaborationEvent.png)
 
 - Bob also gets COLLABORATION ZKE Events once deployment shared by Alice is received on his machine.
