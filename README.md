@@ -1,5 +1,6 @@
 # Roost Hackathon Sample Submission Guide
-Alice and Bob form a team to participate in Roost Hackathon. Alice is expertise in frontend development and Bob is in backend.
+Alice and Bob form a team to participate in Roost Hackathon. 
+Alice brings web development experience and Bob is expert at writing API.
 
 ## 5 Steps for Alice and Bob to collaborate effectively in Roost Hackathon
  - Sign up at Roost Hackathon and Roost.io
