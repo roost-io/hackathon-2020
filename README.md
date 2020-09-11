@@ -28,7 +28,7 @@ Alice brings web development experience and Bob is expert at writing API.
 - Alice searches for Bob's roost handle 'bob' and requests <b>Push Access</b>. (Bob's email address he used to register at Roost.io can also be searched)
 ![RequestPushAccess](images/RequestPushAccess.png)
 
-- Bob <b>Approves</b> Alice's <b>Push Request</b> from his Roost Desktop.
+- Bob <b>Approves</b> Alice's <b>Push Request</b> within Roost Desktop.
 ![BobApproves](images/BobApproves.PNG)
 
 - Likewise, Bob will request <b>Push Access</b> to Alice.  Accordingly, Alice will <b>Approve</b> Bob's corresponding <b>Push Request</b>. (Bob searched 'alice' to make the Push Request)
@@ -39,7 +39,7 @@ Alice brings web development experience and Bob is expert at writing API.
 - Alice builds a [docker image: voter/Dockerfile](voter/Dockerfile) for the front-end service. 
 ![voterBuildImage](images/voterBuildImage.png)
 
-- Alice creates a [Kubernetes Manifest: voter/voter.yaml](voter/voter.yaml) to deploy her frontend microservice in ZKE Cluster and completes unit testing.
+- Alice creates a [Kubernetes Manifest: voter/voter.yaml](voter/voter.yaml) to deploy the front-end microservice in ZKE Cluster and completes unit testing.
 
 - Likewise, Bob also uses Roost Desktop to develop back-end microservices in Bob's programming language of choice.  This too implies a Docker image and Kubernetes Manifest.
 
@@ -57,12 +57,12 @@ Alice brings web development experience and Bob is expert at writing API.
 - Alice can see collaboration ZKE events within Roost Desktop.
 ![aliceCollaborationEvent](images/aliceCollaborationEvent.png)
 
-- Bob also gets COLLABORATION ZKE Events once the deployment shared by Alice is received on his machine.
+- Bob also gets COLLABORATION ZKE Events once the deployment shared by Alice is received on Bob's machine.
 
-- Bob can see the deployed front-end service in his workload analytics.
+- Bob can see the deployed front-end service within Roost Desktop _Workload Analytics_.
 ![BobCollaborateEvent](images/BobCollaborateEvent.png)
 
-- Bob already has his back-end service running in Roost Desktop. Bob can now see 2 microservices running.
+- Bob also has the back-end service running within Roost Desktop. Bob can now see 2 microservices running.
 ![BobWorkloadAnalytics](images/WorkloadAnalytics.PNG)
 
 - Bob verifies the integration by opening the Application URL.
