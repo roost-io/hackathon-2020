@@ -114,7 +114,7 @@ func serveRoot(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 		status.Code = http.StatusCreated
-		status.Message = "Vote saved suessfully"
+		status.Message = "Vote saved successfully"
 		writeVoterResponse(w, status)
 		return
 
