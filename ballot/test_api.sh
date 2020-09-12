@@ -1,5 +1,5 @@
 set -x
-sudo apt-get install jq
+sudo apt-get install -y jq curl
 echo 'Before vote'
 curl roost-controlplane:30080 | jq
 echo 'Vote now'
